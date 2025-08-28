@@ -1,104 +1,169 @@
-Daily Plan (daily.md)
-Symbol Key
-✓ : Done
+# Time Management System
 
-☯ : In progress
+## 🗓️ Weekly Overview
+**Week of:** `[Date] - [Date]`
+**Theme/Focus:** `[Main priority for the week]`
 
-♺ : Continued from previous day
+### Weekly Goals
+- [ ] `[Primary goal 1]`
+- [ ] `[Primary goal 2]`
+- [ ] `[Primary goal 3]`
 
-⚠ : Missed or problem 1
+---
 
-Time Blocking Schedule 34
-Time	Task/Activity	Status
-06:00 - 07:00	Morning routine (exercise, breakfast, review day)	✓
-07:00 - 09:00	Deep work: Project X task (e.g., coding, writing)	☯
-09:00 - 09:15	Coffee break	✓
-09:15 - 12:00	Collaborative work (meetings, emails)	⚠
-12:00 - 13:00	Lunch & walk	✓
-13:00 - 15:00	Deep work: Project Y task	
-15:00 - 15:15	Break	
-15:15 - 17:00	Admin tasks (documentation, planning)	
-17:00 - 18:00	Wrap-up & plan for tomorrow	
-Tasks Today
-Finish Project X proposal draft 2
+## 📅 Daily Planner
 
-Review PR #123 {PR-review} 8
+### 🎯 Today's Focus: `[Date]` - `[Day of Week]`
+**Daily Mantra/Intention:** `[Brief motivational phrase]`
 
-Submit weekly report
+#### 🔑 Top 3 Priorities
+1. [ ] `[Most important task]` - `[Estimated time]`
+2. [ ] `[Second important task]` - `[Estimated time]`
+3. [ ] `[Third important task]` - `[Estimated time]`
 
-Notes
-Meeting with team at 10:00 AM about Q4 goals.
+#### ⏰ Time Block Schedule
+| Time         | Task/Activity                          | Priority | Status     |
+|--------------|----------------------------------------|----------|------------|
+| 6:00 - 7:00  | Morning Routine                        | Medium   | [ ]        |
+| 7:00 - 8:00  | `[Deep work block]`                    | High     | [ ]        |
+| 8:00 - 9:00  | `[Continued deep work]`                | High     | [ ]        |
+| 9:00 - 9:30  | Break/Email Check                      | Low      | [ ]        |
+| 9:30 - 10:30 | `[Task description]`                   | Medium   | [ ]        |
+| 10:30-11:00  | Break                                  | -        | [ ]        |
+| 11:00-12:00  | `[Task description]`                   | High     | [ ]        |
+| 12:00-13:00  | Lunch Break                            | -        | [ ]        |
+| 13:00-14:30  | `[Task description]`                   | Medium   | [ ]        |
+| 14:30-15:00  | Break                                  | -        | [ ]        |
+| 15:00-16:30  | `[Task description]`                   | High     | [ ]        |
+| 16:30-17:00  | Planning for tomorrow                  | Medium   | [ ]        |
+| 17:00-18:00  | Exercise/Personal time                 | Medium   | [ ]        |
+| 18:00+       | Evening Routine/Family time            | -        | [ ]        |
 
-Remember to follow up on client email.
+#### ✅ Task Checklist
+- [ ] `[Smaller task 1]` - `[10 min]`
+- [ ] `[Smaller task 2]` - `[15 min]`
+- [ ] `[Smaller task 3]` - `[20 min]`
 
-Evening Reflection
-Accomplishments: Completed weekly report and morning deep work.
+#### 📝 Notes & Ideas
+- `[Note 1]`
+- `[Note 2]`
+- `[Note 3]`
 
-Challenges: Meeting ran overtime, delaying collaborative work.
+#### 🎉 Daily Wins
+- `[Accomplishment 1]`
+- `[Accomplishment 2]`
 
-Adjustments for Tomorrow: Schedule shorter meetings or buffer time.
+#### 🔄 Improvements for Tomorrow
+- `[Area for improvement 1]`
+- `[Area for improvement 2]`
 
-📅 Weekly Plan (weekly.md)
-Weekly Goals 12
-This Week
-Launch Project X beta {Project-X, 5d} 8
+---
 
-Write blog post on productivity
+## 📋 Task Management
 
-Conduct team retrospective
+### 🚀 Active Projects
+| Project       | Next Action                     | Deadline   | Status    |
+|---------------|---------------------------------|------------|-----------|
+| `[Project A]` | `[Specific next step]`          | `[Date]`   | `[% Done]`|
+| `[Project B]` | `[Specific next step]`          | `[Date]`   | `[% Done]`|
 
-Next Week
-Start Project Y research
+### 📥 Inbox (Unprocessed Tasks)
+- [ ] `[New task idea/request]`
+- [ ] `[Another unprocessed item]`
+- [ ] `[Quick task to categorize]`
 
-Schedule customer interviews
+### ⏳ Waiting For
+- [ ] `[Item]` from `[Person/Department]` - Follow up: `[Date]`
+- [ ] `[Item]` from `[Person/Department]` - Follow up: `[Date]`
 
-Backlog 7
-Update portfolio
+### 📚 Someday/Maybe List
+- [ ] `[Low priority idea]`
+- [ ] `[Future project concept]`
+- [ ] `[Skill to learn eventually]`
 
-Learn new framework
+---
 
-Weekly Review (End of Week)
-Achievements: Shipped Project X beta, published blog post.
+## 🔄 Weekly Review (Sundays)
 
-Time Analysis: Spent 60% on deep work, 20% on meetings, 20% on admin.
+### 📊 This Week's Review
+**Week of:** `[Date] - [Date]`
 
-Improvements: Reduce meeting time by using async updates next week.
+#### ✅ Accomplishments
+- `[Major achievement 1]`
+- `[Major achievement 2]`
+- `[Major achievement 3]`
 
-🎯 Long-Term Goals (goals.md)
-Quarterly OKRs 1
-Q3 2025
-Objective: Improve product performance
+#### 📈 Metrics Tracking
+| Metric                 | Target | Actual |
+|------------------------|--------|--------|
+| Deep work hours        | 20     | `[#]`  |
+| Tasks completed        | 15     | `[#]`  |
+| Meetings attended      | 10     | `[#]`  |
+| Personal time hours    | 15     | `[#]`  |
 
-Key Result: Reduce load time by 50%
+#### 🔍 Lessons Learned
+- `[What worked well]`
+- `[What didn't work]`
+- `[Insight gained]`
 
-Key Result: Achieve 99.9% uptime
+#### 🎯 Next Week Preparation
+- `[Carry-over tasks]`
+- `[New priorities]`
+- `[Schedule adjustments needed]`
 
-Yearly Themes
-Health: Exercise 4x/week
+---
 
-Learning: Complete advanced course in DevOps
+## 🎯 Long-term Goals Tracking
 
-📊 Project Planning (projects/project-x.md)
-Diagram
-Code
-Created with Mermaid JS 5
+### 🏆 Quarterly Goals (Q`[#]`)
+| Goal                    | Progress | Deadline | Status    |
+|-------------------------|----------|----------|-----------|
+| `[Goal 1 description]`  | `[75%]`  | `[Date]` | On track  |
+| `[Goal 2 description]`  | `[50%]`  | `[Date]` | Needs focus|
+| `[Goal 3 description]`  | `[25%]`  | `[Date]` | Behind    |
 
-Tasks
-Finalize requirements {req, 2d}
+### 🌟 Annual Goals
+- [ ] `[Annual goal 1]` - Progress: `[%]`
+- [ ] `[Annual goal 2]` - Progress: `[%]`
+- [ ] `[Annual goal 3]` - Progress: `[%]`
 
-Implement login feature {dev, 3d}
+---
 
-💡 Notes & Ideas (notes/ideas.md)
-Idea: Automate time tracking integration with EARLY app 4.
+## ⚡ Quick Reference
 
-Idea: Create template for client proposals.
+### 🎪 Eisenhower Matrix
+| Urgent & Important     | Important, Not Urgent |
+|------------------------|------------------------|
+| `[Crisis tasks]`       | `[Planning tasks]`     |
+| **Urgent, Not Important** | **Not Urgent, Not Important** |
+| `[Interruptions]`      | `[Time wasters]`       |
 
-🔧 Customization Tips
-Use Tools Like Obsidian or VS Code: Enhance functionality with plugins like Markdown Planner 8 or Mermaid JS 5.
+### 🍅 Pomodoro Tracker
+**Today's Sessions:** `[#]` completed | **Focus Score:** `[#]/10`
 
-Adjust Time Blocks: Modify durations based on your energy levels (e.g., deep work in morning).
+### 🚫 Time Wasters to Avoid
+- [ ] Social media scrolling
+- [ ] Unnecessary meetings
+- [ ] Multitasking
+- [ ] Perfectionism
+- [ ] `[Your specific time waster]`
 
-Integrate with Apps: Use tools like EARLY for automated time tracking 4.
+### 🔄 Habit Tracker
+| Habit          | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|----------------|-----|-----|-----|-----|-----|-----|-----|
+| Morning routine| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Exercise       | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Reading        | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| No phone first hour| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| `[Custom]`     | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 
-Archive Old Files: Move completed weeks to archive/ to reduce clutter 1.
+---
 
+## 💡 Productivity Tips
+- **Time blocking:** Assign specific times for specific tasks
+- **Theme days:** Group similar tasks on specific days
+- **Batching:** Process similar tasks together
+- **Energy matching:** Schedule demanding tasks during high-energy periods
+- **Buffer time:** Include 15-30 minute buffers between meetings
+
+*Last updated: `[Date]`*
