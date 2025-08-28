@@ -102,4 +102,3 @@ Integrate with Apps: Use tools like EARLY for automated time tracking 4.
 
 Archive Old Files: Move completed weeks to archive/ to reduce clutter 1.
 
-Add Visuals: Use Mermaid for Gantt charts or graphs to visualize progress 58.-
