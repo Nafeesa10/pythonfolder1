@@ -166,4 +166,3 @@
 - **Energy matching:** Schedule demanding tasks during high-energy periods
 - **Buffer time:** Include 15-30 minute buffers between meetings
 
-*Last updated: `[Date]`*
