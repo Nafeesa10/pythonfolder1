@@ -1,3 +1,5 @@
+#my sixth Lab composite data type
+#creating a car inventory & defining the dictionary
 import csv
 import copy
 myVehicle = {
@@ -13,6 +15,7 @@ myVehicle = {
 for key, value in myVehicle.items():
     print("{} : {}".format(key,value))
 myInventoryList = []
+#copying the csv file into the memory
 with open('car_fleet.csv') as csvFile:
     csvReader = csv.reader(csvFile, delimiter=',')  
     lineCount = 0  
@@ -35,6 +38,7 @@ with open('car_fleet.csv') as csvFile:
             lineCount += 1  
     print(f'Processed {lineCount} lines.')
     currentVehicle = copy.deepcopy(myVehicle)
+    #printing the car inventory
     for myCarProperties in myInventoryList:
         for key, value in myCarProperties.items():
             print("{} : {}".format(key,value))
