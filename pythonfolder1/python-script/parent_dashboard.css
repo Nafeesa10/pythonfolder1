@@ -1,0 +1,49 @@
+body {
+    background: #f0f4f8;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.dashboard-container {
+    background: #fff;
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 30px 40px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.dashboard-container h2 {
+    text-align: center;
+    margin-bottom: 25px;
+    color: #333;
+}
+.kids-section {
+    margin-bottom: 30px;
+}
+.kids-section h3 {
+    color: #1976d2;
+}
+.kids-section ul {
+    list-style: none;
+    padding: 0;
+}
+.kids-section li {
+    background: #e3f2fd;
+    margin-bottom: 8px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: #333;
+}
+.calendar-section {
+    margin-top: 30px;
+}
+.calendar-section h3 {
+    color: #1976d2;
+    margin-bottom: 10px;
+}
+#calendar {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+    padding: 10px;
+}
